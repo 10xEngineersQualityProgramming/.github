@@ -8,6 +8,8 @@ We believe all developers should be 10x and 10x engineers, and that every projec
 - [is-unknown](https://github.com/is-unknown) - packages for validation and type/value checking
 - [right-pad](https://github.com/right-pad) - utility packages / string manipulation
 - [js-constant](https://github.com/js-constant) - js constants and primitives (does not include packages like FalseJS and ZeroSurge as those are full utility libraries)
+- [in-fp](https://github.com/in-fp) - Alternatives to JS declarations (as functional programming, e.g. use a function like `attempt` instead of the declaration `try`)
+- [10xEngineersQualityProgramming](https://github.com/10xEngineersQualityProgramming) - All other packages by 10x'ly made
 - 
 ## Learn more
 Learn more on [our website](https://10xengineersqualityprogramming.github.io)
