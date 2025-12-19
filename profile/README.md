@@ -7,6 +7,7 @@ We believe all developers should be 10x and 10x engineers, and that every projec
 ## Organizations
 - [is-unknown](https://github.com/is-unknown) - packages for validation and type/value checking
 - [right-pad](https://github.com/right-pad) - utility packages / string manipulation
-- [js-constant](https://github.com/js-constant) - js constants and primitives
+- [js-constant](https://github.com/js-constant) - js constants and primitives (does not include packages like FalseJS and ZeroSurge as those are full utility libraries)
+- 
 ## Learn more
 Learn more on [our website](https://10xengineersqualityprogramming.github.io)
